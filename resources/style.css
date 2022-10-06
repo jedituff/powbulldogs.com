@@ -30,7 +30,8 @@ h3 {
 
 h4 {
     color: #8f8b65;
-    text-align: justify;
+    text-align: center;
+    display: flex;
     width: 1200px;
     margin: auto;
 }
