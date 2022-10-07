@@ -58,7 +58,7 @@ footer {
 }
 
 .subheading {
-    color: #a19c60;
+    color: orangered;
     margin-top: 0px;
     margin-bottom: 100px;
     letter-spacing: 2px;
@@ -67,6 +67,10 @@ footer {
 
 .stretchtable {
     display: flex;
+}
+
+.tan_color {
+    color: tan
 }
 
 #histphoto {
